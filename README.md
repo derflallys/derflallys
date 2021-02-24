@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on Spring.
 - 🤔 I’m looking for help with continuous delivery, Java, software architecture, microservice.
 - 💬 Ask me about Java.
-- 📫 How to reach me: I'm [on Twitter (@derflallys)](http://twitter.com/derflallys) .
+- 📫 How to reach me: I'm [on LinkedIn ](https://www.linkedin.com/in/derflallys/) .
